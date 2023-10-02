@@ -1,0 +1,17 @@
+.loader {
+    position: relative;
+    text-align:center;
+    top:45%;
+    z-index: 1000;
+
+  }
+  #overlayspi {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: #000000d6;
+    opacity: .7;
+    z-index: 1000;
+}
